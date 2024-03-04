@@ -14,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,7 +69,7 @@
       <updated>1709477673391</updated>
       <workItem from="1709477674523" duration="1104000" />
       <workItem from="1709478784948" duration="8464000" />
-      <workItem from="1709580621283" duration="3598000" />
+      <workItem from="1709580621283" duration="3821000" />
     </task>
     <servers />
   </component>
