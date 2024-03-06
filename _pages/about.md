@@ -28,3 +28,5 @@ Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https:/
 (4) Generative Models
 
 I have a track record of publishing in top conferences like ICLR and AISTATS, and industry research experience at Amazon and Bloomberg.
+
+**I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any openings.**
