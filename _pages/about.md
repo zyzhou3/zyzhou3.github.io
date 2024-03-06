@@ -29,4 +29,6 @@ Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https:/
 
 I have a track record of publishing in top conferences like ICLR and AISTATS, and industry research experience at Amazon and Bloomberg.
 
-**I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any openings.**
+**I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any opening.**
+
+Feel free to drop me an email if you are interested in my research or just want to chat. I am always open to new ideas and collaborations.
