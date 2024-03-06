@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at Purdue ECE. My research focuses on developing ML models, including conventional deep learning models and foundation models, that are robust to complex shifts in data and can adapt to various tasks, I have a track record of publishing in top conferences like ICLR and AISTATS, and industry research experience at Amazon and Bloomberg.
+Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https://www.davidinouye.com/). My research focuses on developing ML models, including conventional deep learning models and foundation models, that are robust to complex shifts in data and can adapt to various tasks, I have a track record of publishing in top conferences like ICLR and AISTATS, and industry research experience at Amazon and Bloomberg.
