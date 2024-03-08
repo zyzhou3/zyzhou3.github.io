@@ -17,8 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https://www.davidinouye.com/). My research keywords are as follows:
+Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https://www.davidinouye.com/). 
 
+Essentially speaking, I am seeking to answer the question: **"How can we make machine learning more robust and reliable?"**
+
+
+
+
+
+
+
+My research keywords are as follows:
 
 (1) Distribution Shift
 
