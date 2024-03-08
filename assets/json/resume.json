@@ -27,7 +27,7 @@
       "location": "IN, United States",
       "studyType": "Computer Engineering",
       "startDate": "2021-08-01",
-      "endDate": "2025-05-01",
+      "endDate": "2025-05-01"
     },
     {
       "institution": "Purdue University",
@@ -69,10 +69,10 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Counterfactual Fairness",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
+      "startDate": "2023-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
