@@ -70,11 +70,22 @@
   "projects": [
     {
       "name": "Counterfactual Fairness",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2023-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "summary": "Specially designed deep generative models for counterfactual fairness.",
+      "startDate": "2023-01-01"
+    }
+  ],
+    "awards": [
+    {
+      "title": "National Scholarship",
+      "date": "2017-01-01",
+      "awarder": "Wuhan University",
+      "summary": "Award Top 2 in the major"
+    },
+          {
+      "title": "National Scholarship",
+      "date": "2016-01-01",
+      "awarder": "Wuhan University",
+      "summary": "Award Top 2 in the major"
     }
   ]
 }
