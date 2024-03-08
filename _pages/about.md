@@ -22,6 +22,9 @@ Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https:/
 Essentially speaking, I am seeking to answer the question: **"How can we make machine learning more 
 robust and reliable?"**
 
+To answer these questions, I have leverage tools including (1) casusality ([ICLR24] (https://openreview.net/forum?id=v1VvCWJAL))
+(2) generative models ([ICLR23] (https://openreview.net/forum?id=uhLAcrAZ9cJ), [AISTATS22] (https://proceedings.mlr.press/v151/zhou22b)) 
+
 
 
 
