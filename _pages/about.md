@@ -40,7 +40,6 @@ To answer these questions, I have leverage tools including (1) casusality ([ICLR
 
 
 
-
 My research keywords are as follows:
 
 (1) Distribution Shift
@@ -53,6 +52,6 @@ My research keywords are as follows:
 
 I have a track record of publishing in top conferences like ICLR and AISTATS, and industry research experience at Amazon and Bloomberg.
 
-**I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any opening.**
+🧐️**I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any opening.**
 
 Feel free to drop me an email if you are interested in my research or just want to chat. I am always open to new ideas and collaborations.
