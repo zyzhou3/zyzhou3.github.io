@@ -3,48 +3,47 @@
     "name": "Zeyu Zhou",
     "image": "",
     "email": "zhou1059@purdue.edu",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "A ML Researcher"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Bloomberg, NY",
+      "position": "Machine Learning Quant Research Intern",
+      "startDate": "2023-06-05",
+      "endDate": "2023-08-18",
+      "highlights": ["Time Series", "Financial Data", "Missing Data","Out-of-distribution Generalization"]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Amazon, WA",
+      "position": "Applied Scientist Intern",
+      "startDate": "2022-06-06",
+      "endDate": "2022-09-09",
+      "highlights": ["Deep Generative Models", "Counterfactual", "CausalML"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "Purdue University, ",
+      "location": "IN, United States",
+      "studyType": "Computer Engineering",
+      "startDate": "2021-08-01",
+      "endDate": "2025-05-01",
       "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Purdue University, ",
+      "location": "IN, United States",
+      "studyType": "Physics",
+      "startDate": "2019-08-01",
+      "endDate": "2025-07-01",
+      "courses": ["Transfer to ECE"]
+    },
+    {
+      "institution": "Wuhan University, ",
+      "location": "Hubei, China",
+      "studyType": "Physics",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-01"
     }
   ],
   "awards": [
