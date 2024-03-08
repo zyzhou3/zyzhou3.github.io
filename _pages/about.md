@@ -19,9 +19,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https://www.davidinouye.com/). My research keywords are as follows:
 
-(1) Trustworthy ML (robustness, fairness)
 
-(2) Distribution Shift
+(1) Distribution Shift
+
+(2) Trustworthy ML (robustness, fairness)
 
 (3) Causality
 
