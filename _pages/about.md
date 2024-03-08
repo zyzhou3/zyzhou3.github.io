@@ -19,7 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https://www.davidinouye.com/). 
 
-Essentially speaking, I am seeking to answer the question: **"How can we make machine learning more robust and reliable?"**
+Essentially speaking, I am seeking to answer the question: **"How can we make machine learning more 
+robust and reliable?"**
 
 
 

@@ -34,7 +34,7 @@
       "location": "IN, United States",
       "studyType": "Physics",
       "startDate": "2019-08-01",
-      "endDate": "2025-07-01",
+      "endDate": "2021-07-01",
       "courses": ["Transfer to ECE"]
     },
     {
@@ -71,7 +71,6 @@
     {
       "name": "Counterfactual Fairness",
       "summary": "Specially designed deep generative models for counterfactual fairness.",
-      "startDate": "2023-01-01"
     }
   ],
     "awards": [
