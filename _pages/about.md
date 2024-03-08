@@ -22,6 +22,16 @@ Hi! I am a PhD student at Purdue ECE where I work with [David I. Inouye](https:/
 Essentially speaking, I am seeking to answer the question: **"How can we make machine learning more 
 robust and reliable?"**
 
+More specifically, I am interested in understanding the following questions:
+
+(1) *How can we make machine learning models more robust to distribution shift?*
+
+(2) How can we make machine learning models more trustworthy (e.g., fair, interpretable, and reliable)?
+
+(3) How can we make machine learning models more reliable by understanding the underlying causal mechanisms?
+
+(4) How can we make machine learning models more reliable by understanding the underlying data generation process?
+
 To answer these questions, I have leverage tools including (1) casusality ([ICLR24] (https://openreview.net/forum?id=v1VvCWJAL))
 (2) generative models ([ICLR23] (https://openreview.net/forum?id=uhLAcrAZ9cJ), [AISTATS22] (https://proceedings.mlr.press/v151/zhou22b)) 
 
