@@ -29,11 +29,11 @@ More specifically, I am interested in understanding the following questions:
 
 (1) *How can we make machine learning models more robust to complex distribution shift?*
 
-(2) How can we make machine learning models more trustworthy (e.g., fair, interpretable, and reliable)?
+(2) *How can we make machine learning models more efficient from the perspective of data and computation?*
 
-(3) How can we address these issues using domain knowledge in applications such as scientific discovery and finance?
+(3) *How can we address these issues in applications such as scientific discovery and finance?*
 
-To answer these questions, I have leverage tools including (1) casusality ([ICLR24](https://openreview.net/forum?id=v1VvCWJAL))
+To answer these questions, I have leverage tools including (1) casusality ([ICLR24](https://openreview.net/forum?id=v1VvCWJAL8))
 (2) generative models ([ICLR23](https://openreview.net/forum?id=uhLAcrAZ9cJ), [AISTATS22](https://proceedings.mlr.press/v151/zhou22b))
 (3) Domain Knowledge (Bloomberg Internship)
 
