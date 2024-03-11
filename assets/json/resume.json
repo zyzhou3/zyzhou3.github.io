@@ -70,13 +70,36 @@
   "projects": [
     {
       "name": "Counterfactual Fairness",
-      "summary": "Specially designed deep generative models for counterfactual fairness.",
+      "summary": "Built dedicated deep generative models and corresponding post-processing algorithms for achieving counterfactual fairness.",
+      "startDate": "2023-12-01"
+    },
+        {
+      "name": "Fault-tolerant Machine Learning",
+      "summary": "Designed algorithms that are robust to missing data in the setting of Vertical Federated Learning.",
       "startDate": "2023-12-01"
     },
         {
       "name": "Domain Counterfactual",
       "summary": "Proposed a novel design of deep generative models for estimation of counterfactual samples.",
       "startDate": "2023-01-01"
+    },
+            {
+      "name": "Federated Domain Generalization",
+      "summary": "Trained generative models in a federated setting, enabling the use of SOTA Domain Generalization.",
+      "startDate": "2022-03-01",
+        "endDate": "2023-05-01"
+    },
+    {
+      "name": "Efficient Distribution Matching",
+      "summary": "Proposed efficient algorithms for mapping between high-dimensional distributions.",
+      "startDate": "2020-08-01",
+        "endDate": "2022-03-01"
+    },
+    {
+      "name": "Fault-tolerant Quantum Computation",
+      "summary": "Tested dynamically error-corrected gates for designing robust unitary gates and implementing fault-tolerant quantum computing architectures.",
+      "startDate": "2018-08-01",
+        "endDate": "2019-05-01"
     }
   ],
     "awards": [
