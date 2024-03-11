@@ -85,7 +85,7 @@
     },
             {
       "name": "Federated Domain Generalization",
-      "summary": "Developed algorithms for training generative models in a federated setting, enabling the use of SOTA Domain Generalization.",
+      "summary": "Developed algorithms for training generative models in a federated setting, enabling the use of SOTA Domain Generalization methods.",
       "startDate": "2022-03-01",
         "endDate": "2023-05-01"
     },
