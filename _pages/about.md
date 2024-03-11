@@ -35,7 +35,7 @@ More specifically, I am interested in understanding the following questions:
 
 To answer these questions, I have leverage tools including (1) causality ([ICLR24](https://openreview.net/forum?id=v1VvCWJAL8))
 (2) generative models ([ICLR23](https://openreview.net/forum?id=uhLAcrAZ9cJ), [AISTATS22](https://proceedings.mlr.press/v151/zhou22b))
-(3) Domain Knowledge (Bloomberg Internship)
+(3) domain knowledge (Bloomberg Internship)
 
 
 
