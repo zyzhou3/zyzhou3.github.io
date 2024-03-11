@@ -76,7 +76,7 @@
         {
       "name": "Fault-tolerant Machine Learning",
       "summary": "Designed algorithms that are robust to missing data in the setting of Vertical Federated Learning.",
-      "startDate": "2023-12-01"
+      "startDate": "2023-08-01"
     },
         {
       "name": "Domain Counterfactual",
@@ -85,7 +85,7 @@
     },
             {
       "name": "Federated Domain Generalization",
-      "summary": "Trained generative models in a federated setting, enabling the use of SOTA Domain Generalization.",
+      "summary": "Developed algorithms for training generative models in a federated setting, enabling the use of SOTA Domain Generalization.",
       "startDate": "2022-03-01",
         "endDate": "2023-05-01"
     },
