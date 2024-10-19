@@ -19,26 +19,20 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD student at [Purdue ECE](https://engineering.purdue.edu/ECE) 
 where I work with [David I. Inouye](https://www.davidinouye.com/). 
-I have a track record of publishing in top conferences like ICLR and AISTATS, 
+I have a track record of publishing in top conferences like NeurIPS, ICLR, and AISTATS, 
 and industry research experience at Amazon and Bloomberg.
 
-Essentially speaking, I am seeking to answer the question: **"How can we enhance the robustness and reliability of 
-machine learning in real-world deployment?"**
+My research focuses on the *development and evaluation* of Machine Learning (ML) models, including conventional deep learning
+models and foundation models, that are **robust and trustworthy** when faced with *complex data shifts in test cases* and *undesirable
+bias in pretraining data*, enabling safe and effective deployment in dynamic real-world environments.
 
-More specifically, I am interested in understanding the following questions:
+To solve this problem, I have leverage tools including (1) causality ([NeurIPS24](https://openreview.net/forum?id=J0Itri0UiN), 
+[ICLR24](https://openreview.net/forum?id=v1VvCWJAL8)) (2) Generative AI models ([ICLR23](https://openreview.net/forum?id=uhLAcrAZ9cJ),
+[AISTATS22](https://proceedings.mlr.press/v151/zhou22b), Amazon Internship)(3) domain knowledge (Bloomberg Internship)
 
-(1) *How can we enhance the robustness of machine learning models against complex distribution shifts to achieve better out-of-distribution generalization and reduce the impact of spurious correlations?*
+Feel free to drop me an email if you are interested in my research or just want to chat. I am always open to new ideas and collaborations.
 
-(2) *How can we make machine learning models more efficient from the perspective of data and computation?*
+🔍 **I am expected to graduate in Spring 2025 (flexible). Please let me know if you have any openings for a Machine Learning Researcher/Engineer or a Quantitative Researcher**
 
-(3) *How can we address these issues in applications such as scientific discovery and finance?*
+🔍 **I am also looking for a research internship in Winter/Summer 2025. Please let me know if you have any openings.**
 
-To answer these questions, I have leverage tools including (1) causality ([ICLR24](https://openreview.net/forum?id=v1VvCWJAL8), ICLR24 DPFM)
-(2) Generative AI models ([ICLR23](https://openreview.net/forum?id=uhLAcrAZ9cJ), [AISTATS22](https://proceedings.mlr.press/v151/zhou22b), Amazon Internship)
-(3) domain knowledge (Bloomberg Internship)
-
-
-
-🔍 **I am looking for a research internship in Summer/Fall 2024. Please let me know if you have any opening.**
-
-🔍 Feel free to drop me an email if you are interested in my research or just want to chat. I am always open to new ideas and collaborations.
